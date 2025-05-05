@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+#nav-p {
+    color: black;
+    transition: 1ms;
+}
+
+#nav-p:hover {
+    text-decoration: underline;
+}
